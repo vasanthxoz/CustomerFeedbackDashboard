@@ -1,0 +1,751 @@
+CustomerID,Date,Age,Gender,Product,ProductQualityRating,ServiceQualityRating,DeliveryRating,PriceRating,OverallRating,Feedback,FeedbackCategory,SatisfactionLevel
+CUST00001,2025-03-08,20,Male,Bluetooth Speaker Mini,3,4,3,2,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00002,2024-06-12,62,Male,Gaming Console Z,5,4,3,4,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00003,2025-04-15,52,Male,Home Security Camera,5,4,4,4,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00004,2024-08-26,24,Male,Noise Cancelling Headphones,2,2,3,3,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00005,2024-06-24,52,Female,Laptop Pro 14,2,3,3,4,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00006,2025-02-14,35,Male,Tablet Air 10,4,2,4,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00007,2025-08-21,45,Female,Home Security Camera,2,5,4,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00008,2025-01-29,42,Female,Noise Cancelling Headphones,4,4,2,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00009,2025-10-18,39,Male,Home Security Camera,4,4,5,4,5,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00010,2025-06-03,56,Male,Tablet Air 10,5,2,4,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00011,2024-11-10,33,Male,SmartWatch X2,3,3,3,2,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00012,2025-03-09,31,Female,Bluetooth Speaker Mini,3,2,4,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00013,2024-01-22,55,Female,Bluetooth Speaker Mini,4,3,3,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00014,2025-08-07,54,Female,Noise Cancelling Headphones,4,3,3,1,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00015,2025-10-23,24,Male,Tablet Air 10,4,3,4,4,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00016,2025-07-17,24,Male,Wireless Earbuds Pro,4,5,3,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00017,2025-01-23,18,Other,Gaming Console Z,5,3,4,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00018,2024-02-29,55,Female,Wireless Earbuds Pro,4,5,4,5,5,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00019,2024-07-09,22,Female,Bluetooth Speaker Mini,1,4,3,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00020,2025-11-16,63,Male,Gaming Console Z,4,3,3,5,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00021,2024-04-12,22,Female,Gaming Console Z,4,4,3,4,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00022,2025-06-25,18,Female,Gaming Console Z,5,5,5,4,5,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00023,2024-08-03,63,Male,Gaming Console Z,3,4,2,2,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00024,2024-06-14,65,Male,Home Security Camera,5,5,5,4,5,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00025,2025-03-16,26,Male,Tablet Air 10,5,3,4,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00026,2025-09-27,65,Male,Bluetooth Speaker Mini,1,4,3,2,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00027,2025-11-16,65,Female,Gaming Console Z,5,5,3,4,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00028,2024-08-16,19,Female,Home Security Camera,5,5,2,2,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00029,2024-01-29,25,Female,Gaming Console Z,5,5,2,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00030,2025-08-13,30,Male,Home Security Camera,4,5,4,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00031,2025-11-11,39,Female,SmartWatch X2,3,2,2,2,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00032,2024-06-27,57,Female,Home Security Camera,5,5,4,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00033,2024-08-06,50,Female,Laptop Pro 14,3,2,5,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00034,2024-02-17,33,Other,SmartWatch X2,4,3,2,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00035,2024-04-19,45,Male,Noise Cancelling Headphones,3,3,3,2,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00036,2025-09-19,64,Female,Home Security Camera,3,3,4,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00037,2025-06-17,49,Female,Gaming Console Z,3,4,4,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00038,2025-02-28,44,Male,Noise Cancelling Headphones,3,3,4,2,2,Had payment failures multiple times before it finally went through.,Payment,Dissatisfied
+CUST00039,2025-01-24,48,Male,Tablet Air 10,4,5,3,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00040,2025-05-12,19,Male,Home Security Camera,4,5,3,5,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00041,2024-03-26,59,Male,Noise Cancelling Headphones,3,3,2,4,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00042,2025-04-26,19,Female,Wireless Earbuds Pro,3,3,5,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00043,2024-01-21,57,Male,Laptop Pro 14,3,3,3,4,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00044,2024-06-16,37,Male,Wireless Earbuds Pro,3,2,3,4,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00045,2024-09-05,24,Female,Gaming Console Z,5,3,5,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00046,2025-03-06,49,Male,Tablet Air 10,5,4,3,4,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00047,2025-07-05,48,Male,Gaming Console Z,4,5,2,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00048,2024-11-28,29,Female,Tablet Air 10,3,3,5,5,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00049,2025-02-20,49,Female,Bluetooth Speaker Mini,3,2,4,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00050,2025-06-27,40,Male,Tablet Air 10,5,3,4,3,5,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00051,2025-12-07,29,Male,Noise Cancelling Headphones,3,4,4,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00052,2024-05-09,35,Male,Wireless Earbuds Pro,4,3,4,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00053,2025-03-27,39,Male,Wireless Earbuds Pro,4,5,2,4,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00054,2024-03-28,33,Male,Home Security Camera,5,4,4,2,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00055,2024-11-08,54,Female,SmartWatch X2,3,2,3,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00056,2024-10-25,20,Male,Gaming Console Z,4,3,5,3,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00057,2025-03-11,25,Female,Laptop Pro 14,4,2,2,4,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00058,2025-12-17,43,Other,Noise Cancelling Headphones,3,1,2,3,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00059,2025-08-12,55,Other,Gaming Console Z,3,3,3,4,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00060,2025-04-26,40,Male,Tablet Air 10,4,4,3,5,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00061,2025-04-10,23,Male,Tablet Air 10,5,5,5,3,5,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00062,2025-05-25,58,Male,Wireless Earbuds Pro,4,2,3,5,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00063,2024-09-02,63,Male,Wireless Earbuds Pro,3,4,4,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00064,2024-10-06,44,Female,Noise Cancelling Headphones,3,2,3,4,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00065,2025-02-28,39,Female,Gaming Console Z,4,3,5,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00066,2025-07-10,42,Male,Tablet Air 10,4,4,4,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00067,2025-01-25,42,Other,Laptop Pro 14,3,3,4,1,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00068,2025-02-23,59,Other,SmartWatch X2,3,3,3,3,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00069,2025-01-24,38,Female,Noise Cancelling Headphones,3,2,5,1,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00070,2024-04-12,46,Male,Gaming Console Z,4,5,4,4,5,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00071,2024-07-03,28,Male,Home Security Camera,4,4,3,4,5,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00072,2025-11-24,52,Male,Noise Cancelling Headphones,3,3,3,2,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00073,2025-05-09,24,Male,Tablet Air 10,2,2,4,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00074,2025-09-12,65,Female,Gaming Console Z,3,4,5,3,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00075,2025-11-28,26,Female,Wireless Earbuds Pro,3,4,5,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00076,2025-01-09,51,Female,Gaming Console Z,4,4,5,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00077,2024-03-18,27,Female,Bluetooth Speaker Mini,4,2,4,2,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00078,2025-11-19,65,Female,Home Security Camera,4,5,4,4,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00079,2024-08-14,59,Male,Noise Cancelling Headphones,3,2,3,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00080,2025-04-09,41,Female,Home Security Camera,5,4,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00081,2025-12-07,41,Male,Noise Cancelling Headphones,4,2,1,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00082,2025-04-10,23,Female,Wireless Earbuds Pro,4,2,5,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00083,2024-08-26,39,Female,Wireless Earbuds Pro,3,5,4,3,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00084,2025-08-25,38,Male,Gaming Console Z,4,3,3,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00085,2025-05-30,32,Other,Wireless Earbuds Pro,4,2,3,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00086,2025-12-30,46,Male,SmartWatch X2,2,3,3,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00087,2024-10-28,47,Female,Home Security Camera,5,5,5,2,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00088,2025-04-09,43,Male,SmartWatch X2,3,2,4,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00089,2025-03-18,24,Female,Tablet Air 10,4,3,4,4,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00090,2024-02-22,36,Female,Tablet Air 10,3,3,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00091,2024-10-12,54,Male,Home Security Camera,5,2,4,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00092,2025-12-20,37,Female,Tablet Air 10,3,4,3,3,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00093,2024-08-08,42,Male,Tablet Air 10,4,4,3,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00094,2025-03-29,60,Male,Noise Cancelling Headphones,3,3,4,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00095,2024-11-11,20,Male,Wireless Earbuds Pro,4,3,3,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00096,2025-12-21,32,Female,Tablet Air 10,3,4,3,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00097,2025-12-27,58,Male,SmartWatch X2,1,3,2,2,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00098,2025-02-14,51,Male,Gaming Console Z,4,4,5,3,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00099,2024-12-25,64,Other,Laptop Pro 14,3,3,3,1,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00100,2025-08-16,46,Female,Tablet Air 10,3,4,3,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00101,2025-06-03,22,Male,Noise Cancelling Headphones,4,3,3,2,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00102,2024-02-12,46,Female,Bluetooth Speaker Mini,4,2,3,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00103,2025-05-31,59,Male,Bluetooth Speaker Mini,2,1,2,4,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00104,2025-10-08,59,Male,Tablet Air 10,3,3,3,5,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00105,2025-08-19,60,Male,Tablet Air 10,3,5,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00106,2025-12-20,65,Other,SmartWatch X2,2,2,3,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00107,2024-08-19,26,Male,Gaming Console Z,4,4,4,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00108,2024-06-15,29,Female,Laptop Pro 14,3,4,4,2,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00109,2024-08-27,52,Male,Noise Cancelling Headphones,3,2,2,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00110,2024-07-23,56,Male,Gaming Console Z,4,3,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00111,2024-06-13,35,Male,Laptop Pro 14,3,3,5,1,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00112,2024-03-24,41,Male,Tablet Air 10,4,4,3,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00113,2024-05-22,63,Male,Wireless Earbuds Pro,4,3,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00114,2024-09-01,44,Female,Noise Cancelling Headphones,2,3,2,1,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00115,2024-01-02,57,Male,Home Security Camera,5,5,5,4,5,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00116,2024-02-14,58,Male,Tablet Air 10,4,5,4,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00117,2024-12-06,26,Male,Tablet Air 10,4,3,3,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00118,2024-10-27,30,Male,Bluetooth Speaker Mini,4,3,4,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00119,2024-10-19,40,Female,Wireless Earbuds Pro,4,3,5,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00120,2025-05-24,41,Female,Gaming Console Z,5,4,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00121,2025-11-07,36,Male,Home Security Camera,5,5,5,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00122,2025-11-18,58,Male,Laptop Pro 14,2,4,4,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00123,2025-01-27,54,Male,Laptop Pro 14,2,1,2,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00124,2024-07-09,49,Female,SmartWatch X2,2,2,4,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00125,2024-03-16,46,Male,Noise Cancelling Headphones,4,3,3,1,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00126,2025-12-27,62,Female,Tablet Air 10,4,4,4,5,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00127,2025-07-18,26,Female,SmartWatch X2,3,3,2,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00128,2025-04-22,61,Female,Laptop Pro 14,4,3,2,1,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00129,2024-05-07,51,Male,Laptop Pro 14,4,4,3,2,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00130,2025-10-02,37,Female,SmartWatch X2,5,3,4,2,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00131,2025-07-31,20,Female,Wireless Earbuds Pro,5,5,4,4,5,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00132,2025-10-19,37,Female,Home Security Camera,5,4,4,4,5,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00133,2024-11-22,64,Other,Tablet Air 10,4,3,4,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00134,2025-01-28,57,Male,Laptop Pro 14,3,4,2,3,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00135,2025-05-24,19,Male,Home Security Camera,2,4,5,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00136,2024-04-20,45,Male,Gaming Console Z,3,4,3,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00137,2025-05-31,46,Female,Gaming Console Z,4,3,4,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00138,2025-09-08,50,Male,Wireless Earbuds Pro,3,4,4,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00139,2025-09-19,38,Male,Gaming Console Z,3,3,3,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00140,2024-11-11,64,Female,Wireless Earbuds Pro,4,3,5,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00141,2025-06-20,58,Female,Home Security Camera,5,5,5,4,5,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00142,2025-09-18,48,Female,Wireless Earbuds Pro,5,3,4,2,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00143,2025-06-29,39,Female,Gaming Console Z,4,3,4,5,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00144,2024-11-20,48,Male,Gaming Console Z,4,3,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00145,2024-02-13,36,Other,SmartWatch X2,2,3,3,4,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00146,2025-08-23,33,Male,Bluetooth Speaker Mini,3,4,3,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00147,2024-06-10,44,Female,Noise Cancelling Headphones,2,3,2,1,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00148,2024-02-08,29,Male,Laptop Pro 14,3,5,4,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00149,2024-02-08,18,Male,SmartWatch X2,3,2,1,2,2,Had payment failures multiple times before it finally went through.,Payment,Dissatisfied
+CUST00150,2024-12-04,28,Female,Gaming Console Z,4,5,4,4,5,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00151,2025-02-19,45,Female,SmartWatch X2,2,3,3,2,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00152,2025-08-19,64,Female,Gaming Console Z,4,4,3,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00153,2025-12-21,37,Female,Gaming Console Z,4,4,2,4,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00154,2025-11-11,31,Female,SmartWatch X2,1,2,3,3,1,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00155,2025-07-03,27,Male,Noise Cancelling Headphones,3,3,1,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00156,2025-04-18,61,Female,Wireless Earbuds Pro,4,4,3,3,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00157,2024-03-11,48,Male,Home Security Camera,4,4,5,4,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00158,2024-03-23,61,Other,Laptop Pro 14,4,3,4,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00159,2024-01-24,37,Male,Home Security Camera,3,4,4,5,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00160,2024-01-17,33,Male,SmartWatch X2,4,1,3,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00161,2024-02-27,26,Female,Gaming Console Z,4,5,4,2,5,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00162,2025-02-27,37,Male,Laptop Pro 14,1,2,4,2,1,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00163,2025-03-02,44,Male,Home Security Camera,5,5,4,3,5,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00164,2025-06-26,26,Male,Gaming Console Z,4,2,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00165,2025-11-20,56,Female,SmartWatch X2,3,4,1,2,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00166,2024-04-30,65,Other,Noise Cancelling Headphones,3,2,1,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00167,2025-10-26,40,Male,Tablet Air 10,3,3,3,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00168,2024-08-14,65,Male,Gaming Console Z,5,3,3,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00169,2025-07-17,59,Other,Tablet Air 10,4,5,3,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00170,2025-07-09,59,Other,Wireless Earbuds Pro,5,5,4,4,5,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00171,2024-06-03,18,Male,Noise Cancelling Headphones,2,3,2,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00172,2024-10-08,52,Other,Wireless Earbuds Pro,4,3,3,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00173,2025-09-26,51,Male,Tablet Air 10,4,4,1,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00174,2025-10-27,20,Male,Home Security Camera,3,3,5,4,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00175,2024-04-07,51,Female,Bluetooth Speaker Mini,3,5,3,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00176,2024-11-18,19,Other,Laptop Pro 14,2,3,2,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00177,2025-07-07,39,Male,Laptop Pro 14,3,1,3,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00178,2025-09-01,43,Other,Tablet Air 10,4,3,5,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00179,2025-11-07,42,Male,Gaming Console Z,4,2,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00180,2024-11-11,46,Male,Gaming Console Z,4,4,4,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00181,2025-09-03,56,Female,Home Security Camera,5,4,2,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00182,2024-10-02,37,Male,Laptop Pro 14,3,2,3,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00183,2025-08-31,57,Male,SmartWatch X2,3,2,2,3,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00184,2025-08-31,26,Male,Bluetooth Speaker Mini,4,3,4,1,2,Had payment failures multiple times before it finally went through.,Payment,Dissatisfied
+CUST00185,2024-11-29,42,Male,Home Security Camera,3,5,5,5,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00186,2024-10-25,62,Male,Home Security Camera,2,5,4,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00187,2025-09-04,48,Female,Home Security Camera,3,4,3,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00188,2025-10-24,57,Male,Home Security Camera,3,4,5,4,5,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00189,2025-12-05,54,Male,Tablet Air 10,3,5,4,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00190,2024-05-25,40,Male,Noise Cancelling Headphones,4,2,2,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00191,2025-12-28,25,Male,Tablet Air 10,3,2,4,4,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00192,2025-02-18,58,Male,Home Security Camera,3,4,3,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00193,2025-12-21,22,Female,Laptop Pro 14,3,3,1,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00194,2024-12-26,47,Female,Gaming Console Z,4,3,3,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00195,2025-02-01,44,Female,Home Security Camera,3,4,5,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00196,2025-09-26,21,Female,Wireless Earbuds Pro,4,4,5,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00197,2025-03-30,49,Male,Wireless Earbuds Pro,4,3,3,5,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00198,2025-08-09,25,Male,Tablet Air 10,3,4,2,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00199,2024-09-10,37,Female,Wireless Earbuds Pro,3,4,5,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00200,2025-12-28,57,Female,Laptop Pro 14,2,3,2,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00201,2025-12-21,36,Male,Gaming Console Z,5,4,5,4,5,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00202,2025-12-19,26,Male,Tablet Air 10,4,4,3,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00203,2025-10-10,23,Male,Gaming Console Z,3,2,3,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00204,2025-12-15,40,Female,Home Security Camera,5,3,4,4,5,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00205,2025-05-11,39,Female,Wireless Earbuds Pro,5,4,4,3,5,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00206,2024-05-15,59,Male,Gaming Console Z,4,3,4,5,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00207,2024-08-27,45,Female,SmartWatch X2,4,2,2,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00208,2024-05-15,48,Male,Home Security Camera,2,4,4,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00209,2025-10-18,61,Male,Wireless Earbuds Pro,3,3,3,2,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00210,2024-05-23,25,Female,Home Security Camera,4,3,5,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00211,2024-10-18,62,Male,Gaming Console Z,4,5,3,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00212,2025-10-15,56,Male,Wireless Earbuds Pro,5,4,4,3,5,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00213,2024-03-15,19,Female,Wireless Earbuds Pro,4,4,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00214,2025-07-03,52,Female,Gaming Console Z,5,5,5,3,5,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00215,2025-10-27,61,Female,Gaming Console Z,4,3,4,4,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00216,2024-06-28,25,Male,Laptop Pro 14,3,4,5,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00217,2024-10-02,64,Female,Wireless Earbuds Pro,3,4,5,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00218,2024-06-19,41,Male,SmartWatch X2,3,2,3,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00219,2025-01-07,42,Female,Laptop Pro 14,5,2,3,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00220,2024-03-20,54,Male,Wireless Earbuds Pro,4,4,2,2,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00221,2024-12-01,23,Female,Wireless Earbuds Pro,3,4,4,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00222,2025-07-13,33,Male,Home Security Camera,4,3,4,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00223,2024-11-10,24,Male,Bluetooth Speaker Mini,1,4,3,3,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00224,2025-04-14,65,Male,SmartWatch X2,2,2,2,2,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00225,2024-11-18,43,Female,Tablet Air 10,4,4,4,2,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00226,2025-07-02,40,Other,Bluetooth Speaker Mini,4,1,3,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00227,2024-08-08,38,Male,Bluetooth Speaker Mini,4,2,3,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00228,2024-04-06,47,Male,Laptop Pro 14,2,4,3,1,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00229,2024-03-27,55,Female,SmartWatch X2,3,3,4,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00230,2024-06-21,54,Male,Home Security Camera,4,3,5,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00231,2025-09-20,57,Female,Gaming Console Z,2,4,3,4,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00232,2025-07-10,19,Other,Tablet Air 10,3,4,3,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00233,2024-01-31,35,Male,Noise Cancelling Headphones,1,3,4,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00234,2024-08-12,54,Female,Home Security Camera,3,5,3,4,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00235,2024-01-29,63,Female,Laptop Pro 14,3,3,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00236,2025-06-23,48,Male,Bluetooth Speaker Mini,3,3,4,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00237,2024-05-25,25,Female,Tablet Air 10,5,4,4,4,5,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00238,2025-05-13,59,Male,Tablet Air 10,5,3,3,4,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00239,2025-08-09,43,Female,Wireless Earbuds Pro,4,4,4,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00240,2024-11-23,28,Female,SmartWatch X2,3,2,1,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00241,2024-04-20,64,Male,Home Security Camera,3,4,5,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00242,2025-12-04,32,Male,SmartWatch X2,1,3,2,1,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00243,2024-03-17,53,Other,SmartWatch X2,1,5,2,3,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00244,2024-07-13,44,Female,Gaming Console Z,4,4,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00245,2024-03-30,36,Female,Noise Cancelling Headphones,3,3,4,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00246,2024-04-03,59,Female,Laptop Pro 14,4,2,3,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00247,2024-06-03,62,Female,SmartWatch X2,2,1,3,2,1,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00248,2025-05-01,54,Female,Noise Cancelling Headphones,2,1,3,1,2,"Disappointing purchase, would not buy again or recommend.",Other,Dissatisfied
+CUST00249,2024-05-30,25,Other,Noise Cancelling Headphones,4,5,4,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00250,2025-09-01,34,Male,SmartWatch X2,4,1,3,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00251,2025-08-24,51,Female,SmartWatch X2,2,3,5,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00252,2024-12-18,44,Male,Noise Cancelling Headphones,3,2,3,2,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00253,2024-12-05,62,Male,Noise Cancelling Headphones,4,1,3,3,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00254,2024-05-17,37,Other,Noise Cancelling Headphones,2,2,4,1,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00255,2025-05-11,51,Female,Wireless Earbuds Pro,3,3,5,5,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00256,2024-02-29,33,Male,Wireless Earbuds Pro,4,4,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00257,2025-01-16,49,Female,Laptop Pro 14,4,3,3,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00258,2025-08-08,31,Female,Bluetooth Speaker Mini,3,3,3,3,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00259,2025-10-24,29,Female,Wireless Earbuds Pro,4,5,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00260,2024-11-05,61,Female,Home Security Camera,3,5,5,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00261,2025-12-01,24,Female,Tablet Air 10,5,4,3,2,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00262,2025-09-06,43,Female,Laptop Pro 14,4,1,1,2,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00263,2025-08-08,30,Male,Bluetooth Speaker Mini,3,2,3,3,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00264,2025-04-27,26,Female,Laptop Pro 14,2,4,2,3,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00265,2025-01-15,34,Female,Noise Cancelling Headphones,3,2,3,3,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00266,2024-11-01,44,Male,Laptop Pro 14,3,3,4,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00267,2024-03-23,49,Male,Laptop Pro 14,3,3,3,1,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00268,2025-03-20,58,Male,Home Security Camera,3,4,4,4,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00269,2024-07-14,19,Female,Bluetooth Speaker Mini,3,4,2,2,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00270,2025-06-16,56,Female,Home Security Camera,5,5,5,4,5,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00271,2025-02-17,19,Male,Laptop Pro 14,3,3,2,1,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00272,2025-08-31,21,Female,Wireless Earbuds Pro,3,4,4,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00273,2024-01-10,37,Male,SmartWatch X2,2,2,2,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00274,2024-07-22,56,Male,Gaming Console Z,4,5,4,2,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00275,2025-05-07,39,Male,Wireless Earbuds Pro,3,2,4,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00276,2024-08-24,47,Other,Gaming Console Z,4,5,5,3,5,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00277,2024-04-28,24,Female,Wireless Earbuds Pro,4,4,5,2,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00278,2024-04-26,43,Male,Noise Cancelling Headphones,2,1,4,3,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00279,2024-03-01,28,Male,Noise Cancelling Headphones,3,1,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00280,2025-05-14,25,Female,Noise Cancelling Headphones,1,2,4,3,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00281,2025-11-16,39,Female,SmartWatch X2,1,3,3,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00282,2024-06-09,50,Female,Noise Cancelling Headphones,2,4,3,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00283,2025-02-16,33,Male,Noise Cancelling Headphones,3,2,3,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00284,2024-01-01,23,Female,Gaming Console Z,4,3,3,4,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00285,2024-12-05,53,Female,Noise Cancelling Headphones,3,2,2,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00286,2025-01-17,62,Male,Laptop Pro 14,2,3,2,3,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00287,2024-08-08,47,Female,Bluetooth Speaker Mini,3,2,4,2,2,"Disappointing purchase, would not buy again or recommend.",Other,Dissatisfied
+CUST00288,2024-05-17,49,Male,Wireless Earbuds Pro,4,3,5,5,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00289,2024-05-11,24,Male,Tablet Air 10,3,4,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00290,2025-02-26,56,Female,Gaming Console Z,4,3,4,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00291,2025-12-04,40,Female,Laptop Pro 14,4,3,3,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00292,2025-11-14,63,Male,Gaming Console Z,5,4,4,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00293,2024-06-13,36,Female,Laptop Pro 14,4,2,5,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00294,2025-10-24,53,Male,Gaming Console Z,3,5,4,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00295,2024-09-14,30,Female,Noise Cancelling Headphones,4,1,3,1,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00296,2024-06-30,61,Male,Laptop Pro 14,1,3,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00297,2025-04-22,63,Female,Wireless Earbuds Pro,4,4,3,3,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00298,2024-11-21,51,Male,Laptop Pro 14,3,3,3,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00299,2024-12-05,41,Male,Noise Cancelling Headphones,4,3,2,2,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00300,2025-11-29,38,Male,SmartWatch X2,2,2,3,1,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00301,2024-02-14,36,Female,Bluetooth Speaker Mini,3,3,4,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00302,2025-12-02,45,Female,Bluetooth Speaker Mini,4,2,1,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00303,2025-04-15,63,Male,SmartWatch X2,3,3,3,1,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00304,2025-02-02,61,Male,Wireless Earbuds Pro,4,3,3,5,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00305,2025-12-03,37,Female,Gaming Console Z,4,3,3,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00306,2025-10-11,27,Male,Tablet Air 10,5,5,4,2,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00307,2024-03-28,37,Male,Tablet Air 10,4,5,4,4,5,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00308,2024-02-25,53,Male,SmartWatch X2,3,3,3,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00309,2024-04-12,36,Female,Bluetooth Speaker Mini,3,4,2,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00310,2024-09-09,32,Female,Home Security Camera,5,3,5,2,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00311,2024-04-21,29,Female,SmartWatch X2,4,1,3,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00312,2024-02-01,55,Female,Bluetooth Speaker Mini,3,2,3,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00313,2025-08-26,64,Female,Laptop Pro 14,2,3,2,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00314,2025-04-01,28,Male,Laptop Pro 14,3,2,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00315,2024-07-30,51,Female,Tablet Air 10,2,5,3,3,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00316,2025-08-15,52,Female,Home Security Camera,4,3,5,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00317,2024-12-27,40,Female,Noise Cancelling Headphones,3,3,3,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00318,2024-05-01,60,Male,Tablet Air 10,4,3,4,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00319,2025-08-10,55,Male,Wireless Earbuds Pro,4,3,3,4,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00320,2024-10-17,23,Male,Noise Cancelling Headphones,2,3,4,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00321,2024-09-27,28,Female,Tablet Air 10,5,3,4,4,5,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00322,2025-09-12,24,Male,Wireless Earbuds Pro,3,2,3,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00323,2025-11-25,59,Male,Home Security Camera,4,4,4,2,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00324,2025-12-14,54,Male,Laptop Pro 14,2,3,1,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00325,2024-01-08,54,Female,Wireless Earbuds Pro,3,4,4,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00326,2025-09-18,35,Other,Home Security Camera,5,3,5,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00327,2024-12-18,63,Male,Laptop Pro 14,4,2,3,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00328,2025-12-14,61,Female,Laptop Pro 14,4,2,2,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00329,2025-01-14,23,Female,Home Security Camera,5,4,4,4,5,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00330,2025-11-03,51,Male,Wireless Earbuds Pro,5,2,4,3,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00331,2024-03-29,35,Female,Tablet Air 10,3,3,3,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00332,2024-12-21,35,Male,Bluetooth Speaker Mini,2,3,3,2,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00333,2024-04-29,50,Other,Gaming Console Z,3,2,4,1,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00334,2024-04-29,34,Male,Bluetooth Speaker Mini,3,3,4,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00335,2024-04-05,43,Female,Tablet Air 10,5,4,4,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00336,2024-07-23,33,Female,Gaming Console Z,2,4,5,5,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00337,2025-11-10,49,Female,Wireless Earbuds Pro,4,3,5,2,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00338,2025-02-11,32,Female,Laptop Pro 14,4,3,2,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00339,2024-05-03,62,Female,Tablet Air 10,4,3,3,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00340,2025-09-19,39,Male,Noise Cancelling Headphones,3,1,3,1,2,"Disappointing purchase, would not buy again or recommend.",Other,Dissatisfied
+CUST00341,2025-12-03,32,Female,Gaming Console Z,4,3,4,2,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00342,2025-10-07,51,Female,Tablet Air 10,4,3,5,3,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00343,2025-05-02,58,Male,Tablet Air 10,4,4,4,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00344,2025-10-27,59,Female,Gaming Console Z,3,3,3,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00345,2024-05-28,28,Female,Tablet Air 10,3,4,5,4,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00346,2025-02-08,35,Female,Tablet Air 10,3,3,3,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00347,2025-12-18,65,Male,Laptop Pro 14,3,3,4,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00348,2024-03-27,59,Female,Home Security Camera,4,4,5,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00349,2024-11-29,48,Male,Gaming Console Z,4,4,3,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00350,2025-06-30,37,Female,Noise Cancelling Headphones,2,3,2,2,2,Had payment failures multiple times before it finally went through.,Payment,Dissatisfied
+CUST00351,2024-05-19,40,Male,Wireless Earbuds Pro,3,3,4,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00352,2025-07-28,45,Male,Laptop Pro 14,2,2,2,2,2,Had payment failures multiple times before it finally went through.,Payment,Dissatisfied
+CUST00353,2025-09-19,62,Female,Gaming Console Z,3,3,4,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00354,2025-05-18,30,Male,Laptop Pro 14,3,2,3,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00355,2024-06-03,18,Female,Tablet Air 10,3,4,4,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00356,2025-02-05,22,Female,Laptop Pro 14,3,4,2,2,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00357,2025-03-29,33,Female,Wireless Earbuds Pro,4,5,4,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00358,2025-07-16,51,Male,Noise Cancelling Headphones,3,3,5,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00359,2024-06-20,35,Female,Home Security Camera,4,4,3,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00360,2025-09-25,39,Female,Wireless Earbuds Pro,4,3,3,3,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00361,2024-12-21,46,Female,Wireless Earbuds Pro,3,3,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00362,2024-12-22,38,Female,Gaming Console Z,3,3,3,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00363,2025-04-09,18,Female,Home Security Camera,4,2,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00364,2025-11-30,49,Female,Laptop Pro 14,3,2,4,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00365,2024-02-02,30,Male,Bluetooth Speaker Mini,4,4,2,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00366,2024-08-01,59,Female,SmartWatch X2,3,2,2,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00367,2025-09-23,35,Female,SmartWatch X2,3,2,3,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00368,2024-07-02,53,Female,Home Security Camera,5,4,3,4,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00369,2025-07-17,43,Female,Laptop Pro 14,2,3,1,2,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00370,2024-11-27,56,Male,Bluetooth Speaker Mini,4,1,2,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00371,2024-10-18,56,Male,Laptop Pro 14,4,3,3,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00372,2025-07-23,54,Female,Laptop Pro 14,2,2,3,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00373,2025-08-07,43,Female,Bluetooth Speaker Mini,3,2,3,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00374,2025-08-13,42,Male,Wireless Earbuds Pro,3,3,5,5,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00375,2025-09-08,18,Female,Home Security Camera,5,4,4,5,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00376,2025-09-01,54,Female,Bluetooth Speaker Mini,1,3,2,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00377,2025-02-12,50,Male,Laptop Pro 14,3,2,2,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00378,2025-03-16,38,Female,SmartWatch X2,3,2,3,1,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00379,2024-12-24,57,Female,Noise Cancelling Headphones,2,2,2,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00380,2025-09-27,27,Female,Gaming Console Z,5,3,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00381,2025-06-19,34,Female,Laptop Pro 14,3,2,3,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00382,2025-04-21,59,Other,SmartWatch X2,4,2,4,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00383,2024-08-24,42,Female,SmartWatch X2,3,2,3,4,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00384,2024-11-08,39,Female,Laptop Pro 14,3,2,2,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00385,2024-09-20,42,Female,Wireless Earbuds Pro,5,3,3,4,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00386,2025-12-03,32,Male,Laptop Pro 14,3,2,4,2,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00387,2024-07-26,26,Male,Laptop Pro 14,2,4,3,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00388,2024-05-29,64,Male,Tablet Air 10,4,3,4,5,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00389,2024-07-11,24,Male,Wireless Earbuds Pro,4,2,4,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00390,2025-05-29,56,Male,Tablet Air 10,5,3,4,1,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00391,2025-02-26,32,Female,Bluetooth Speaker Mini,3,3,4,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00392,2024-02-12,56,Female,Home Security Camera,4,3,5,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00393,2024-04-21,46,Male,Wireless Earbuds Pro,4,3,5,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00394,2024-11-07,36,Male,Home Security Camera,4,5,4,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00395,2024-07-03,55,Female,Laptop Pro 14,3,3,4,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00396,2025-12-29,28,Female,SmartWatch X2,3,2,1,2,1,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00397,2024-06-12,42,Female,Wireless Earbuds Pro,4,2,5,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00398,2025-04-01,36,Female,SmartWatch X2,2,3,3,1,2,Had payment failures multiple times before it finally went through.,Payment,Dissatisfied
+CUST00399,2025-09-14,49,Male,Noise Cancelling Headphones,2,3,3,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00400,2024-02-26,59,Male,Laptop Pro 14,3,2,2,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00401,2025-11-19,36,Female,Laptop Pro 14,4,3,3,2,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00402,2024-03-07,36,Female,SmartWatch X2,1,2,4,2,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00403,2025-10-06,51,Other,Noise Cancelling Headphones,3,2,2,3,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00404,2025-09-21,54,Female,Noise Cancelling Headphones,2,3,4,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00405,2024-04-30,65,Female,Home Security Camera,4,4,5,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00406,2024-11-27,18,Male,Tablet Air 10,3,3,2,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00407,2025-04-30,20,Female,Noise Cancelling Headphones,3,4,2,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00408,2025-11-25,38,Female,Wireless Earbuds Pro,4,3,3,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00409,2025-01-19,58,Female,Laptop Pro 14,2,3,3,1,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00410,2024-08-31,41,Male,Gaming Console Z,4,3,5,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00411,2025-05-09,50,Male,Tablet Air 10,5,3,5,5,5,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00412,2024-02-07,47,Male,SmartWatch X2,2,3,2,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00413,2025-11-05,65,Male,Gaming Console Z,4,3,2,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00414,2025-09-29,53,Female,Bluetooth Speaker Mini,3,2,3,2,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00415,2024-12-12,52,Male,Laptop Pro 14,5,3,4,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00416,2025-04-01,57,Male,Tablet Air 10,3,4,3,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00417,2025-12-16,47,Male,Gaming Console Z,3,3,4,5,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00418,2025-11-12,39,Female,Tablet Air 10,3,4,4,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00419,2024-05-10,50,Male,SmartWatch X2,2,4,2,3,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00420,2024-12-14,31,Female,Home Security Camera,4,3,5,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00421,2025-08-10,49,Male,Noise Cancelling Headphones,3,3,2,3,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00422,2025-10-22,60,Male,Bluetooth Speaker Mini,2,4,2,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00423,2025-02-03,57,Female,Bluetooth Speaker Mini,3,4,3,1,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00424,2025-08-19,18,Female,Home Security Camera,2,4,4,5,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00425,2024-04-22,36,Female,Bluetooth Speaker Mini,2,3,3,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00426,2025-01-03,44,Male,Laptop Pro 14,3,3,3,1,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00427,2025-10-19,44,Female,Home Security Camera,4,3,4,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00428,2025-12-30,50,Male,Tablet Air 10,4,4,4,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00429,2025-06-23,35,Male,SmartWatch X2,2,2,2,1,1,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00430,2024-12-17,52,Female,Noise Cancelling Headphones,2,3,2,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00431,2025-12-12,56,Female,Gaming Console Z,5,4,5,4,5,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00432,2024-10-11,34,Male,Gaming Console Z,4,4,5,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00433,2024-06-28,34,Female,Bluetooth Speaker Mini,2,3,3,3,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00434,2025-01-27,33,Female,Laptop Pro 14,4,3,3,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00435,2024-11-04,48,Female,Bluetooth Speaker Mini,2,4,3,3,2,"Disappointing purchase, would not buy again or recommend.",Other,Dissatisfied
+CUST00436,2025-11-30,20,Male,Tablet Air 10,4,2,5,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00437,2025-02-04,47,Female,Bluetooth Speaker Mini,3,2,3,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00438,2024-04-10,51,Male,Noise Cancelling Headphones,1,2,2,3,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00439,2024-08-10,56,Female,SmartWatch X2,4,3,2,1,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00440,2025-11-07,22,Female,Gaming Console Z,4,3,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00441,2025-02-01,39,Other,Gaming Console Z,5,4,5,3,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00442,2024-08-11,57,Female,Noise Cancelling Headphones,3,3,3,1,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00443,2025-10-17,18,Female,Home Security Camera,4,5,2,4,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00444,2024-03-12,52,Male,Home Security Camera,5,5,3,3,5,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00445,2025-10-09,59,Male,Tablet Air 10,5,4,4,4,5,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00446,2025-10-07,62,Male,SmartWatch X2,4,2,2,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00447,2025-07-07,59,Male,Noise Cancelling Headphones,3,2,2,1,2,"Disappointing purchase, would not buy again or recommend.",Other,Dissatisfied
+CUST00448,2025-07-03,27,Female,Bluetooth Speaker Mini,2,3,3,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00449,2024-05-13,18,Male,Wireless Earbuds Pro,5,2,4,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00450,2024-03-05,30,Male,Home Security Camera,5,5,4,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00451,2024-12-09,22,Male,Laptop Pro 14,3,2,3,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00452,2024-06-10,19,Female,SmartWatch X2,2,2,3,1,2,Had payment failures multiple times before it finally went through.,Payment,Dissatisfied
+CUST00453,2025-12-09,26,Male,Gaming Console Z,3,4,5,4,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00454,2024-12-22,44,Male,Bluetooth Speaker Mini,3,5,3,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00455,2025-10-03,60,Male,Wireless Earbuds Pro,4,5,4,4,5,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00456,2025-03-21,34,Male,Noise Cancelling Headphones,3,2,1,2,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00457,2025-03-31,55,Female,Home Security Camera,5,5,4,4,5,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00458,2025-04-27,55,Female,Home Security Camera,4,5,4,3,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00459,2024-07-26,39,Male,Wireless Earbuds Pro,4,4,4,3,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00460,2024-06-23,54,Other,Bluetooth Speaker Mini,4,3,3,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00461,2024-09-09,33,Male,Bluetooth Speaker Mini,4,2,5,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00462,2025-06-27,43,Female,SmartWatch X2,3,2,3,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00463,2025-10-25,23,Male,Gaming Console Z,4,5,5,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00464,2025-10-03,47,Female,Wireless Earbuds Pro,3,5,4,2,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00465,2025-07-09,54,Female,SmartWatch X2,2,2,3,1,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00466,2025-01-10,29,Female,SmartWatch X2,3,3,2,2,2,Had payment failures multiple times before it finally went through.,Payment,Dissatisfied
+CUST00467,2025-12-20,31,Female,Bluetooth Speaker Mini,2,4,4,3,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00468,2025-06-28,61,Female,Gaming Console Z,4,3,5,4,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00469,2024-03-30,23,Male,Laptop Pro 14,3,5,3,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00470,2025-11-29,52,Female,Noise Cancelling Headphones,3,1,3,2,2,"Disappointing purchase, would not buy again or recommend.",Other,Dissatisfied
+CUST00471,2025-10-22,39,Male,Tablet Air 10,3,2,3,3,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00472,2024-09-23,32,Female,Gaming Console Z,3,5,4,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00473,2024-06-28,63,Female,Laptop Pro 14,3,4,2,3,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00474,2024-05-31,41,Male,Laptop Pro 14,2,3,4,5,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00475,2025-07-13,50,Male,Gaming Console Z,3,4,4,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00476,2025-05-05,20,Male,SmartWatch X2,2,1,3,3,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00477,2024-08-15,35,Male,SmartWatch X2,2,2,2,2,1,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00478,2025-01-04,43,Male,Home Security Camera,3,3,5,4,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00479,2025-03-30,65,Other,Noise Cancelling Headphones,2,4,3,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00480,2025-06-21,39,Male,Home Security Camera,4,2,5,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00481,2024-07-09,42,Male,Noise Cancelling Headphones,4,3,2,2,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00482,2025-10-13,48,Male,Gaming Console Z,4,2,4,3,5,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00483,2025-01-05,55,Female,Home Security Camera,5,3,5,5,5,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00484,2024-11-23,47,Female,Laptop Pro 14,3,4,3,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00485,2024-03-19,50,Male,Laptop Pro 14,3,2,2,4,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00486,2025-07-01,55,Male,Laptop Pro 14,4,2,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00487,2024-08-14,30,Female,SmartWatch X2,1,3,3,2,2,"Disappointing purchase, would not buy again or recommend.",Other,Dissatisfied
+CUST00488,2025-06-19,39,Male,Gaming Console Z,5,4,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00489,2024-03-21,45,Female,SmartWatch X2,4,3,3,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00490,2024-03-08,37,Female,SmartWatch X2,3,3,3,2,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00491,2024-10-11,55,Male,Laptop Pro 14,4,2,4,4,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00492,2024-06-24,52,Male,SmartWatch X2,2,4,2,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00493,2024-12-29,42,Male,Bluetooth Speaker Mini,2,3,2,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00494,2025-05-20,25,Male,Noise Cancelling Headphones,4,2,5,2,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00495,2024-03-12,48,Female,Tablet Air 10,5,5,2,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00496,2024-04-14,65,Female,Laptop Pro 14,4,3,3,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00497,2024-10-12,63,Female,Gaming Console Z,4,3,3,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00498,2024-05-05,34,Female,Bluetooth Speaker Mini,3,3,3,1,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00499,2025-11-26,38,Male,SmartWatch X2,3,1,2,2,2,Had payment failures multiple times before it finally went through.,Payment,Dissatisfied
+CUST00500,2025-07-07,52,Male,Wireless Earbuds Pro,4,4,3,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00501,2025-11-06,37,Female,Laptop Pro 14,3,3,4,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00502,2024-06-09,50,Male,Gaming Console Z,3,5,4,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00503,2025-01-10,40,Female,Wireless Earbuds Pro,4,2,5,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00504,2024-03-27,62,Male,Gaming Console Z,5,4,4,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00505,2024-01-21,62,Male,Wireless Earbuds Pro,5,3,4,3,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00506,2024-12-13,28,Female,Tablet Air 10,5,4,5,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00507,2024-10-31,54,Male,Bluetooth Speaker Mini,2,2,3,2,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00508,2024-03-19,59,Female,Gaming Console Z,4,3,4,2,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00509,2024-01-20,58,Female,Laptop Pro 14,3,3,1,3,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00510,2025-08-02,64,Female,Bluetooth Speaker Mini,2,3,4,2,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00511,2024-03-06,58,Male,Home Security Camera,4,4,4,4,5,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00512,2025-05-12,53,Other,Home Security Camera,4,5,4,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00513,2024-02-13,64,Female,Wireless Earbuds Pro,5,4,5,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00514,2024-05-23,33,Male,SmartWatch X2,1,3,1,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00515,2024-11-16,39,Female,Home Security Camera,5,3,4,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00516,2025-06-30,41,Female,SmartWatch X2,4,1,4,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00517,2024-11-11,19,Female,Wireless Earbuds Pro,4,3,4,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00518,2025-12-02,25,Female,Bluetooth Speaker Mini,5,2,4,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00519,2024-08-29,37,Male,Laptop Pro 14,4,3,3,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00520,2025-02-26,39,Female,SmartWatch X2,1,2,2,3,1,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00521,2024-01-29,21,Female,Laptop Pro 14,2,2,3,2,2,"Disappointing purchase, would not buy again or recommend.",Other,Dissatisfied
+CUST00522,2025-10-26,26,Female,Home Security Camera,5,4,5,3,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00523,2024-07-22,23,Male,Laptop Pro 14,2,4,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00524,2025-04-18,30,Male,Laptop Pro 14,3,2,2,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00525,2025-06-22,45,Female,Noise Cancelling Headphones,3,2,4,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00526,2024-07-30,56,Male,Gaming Console Z,3,4,5,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00527,2024-09-11,41,Female,Noise Cancelling Headphones,4,3,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00528,2025-07-24,21,Male,Bluetooth Speaker Mini,4,2,4,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00529,2025-05-31,57,Male,Home Security Camera,4,4,4,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00530,2025-12-28,51,Male,Gaming Console Z,5,4,4,4,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00531,2024-09-26,57,Female,Gaming Console Z,3,3,2,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00532,2024-07-12,27,Male,Laptop Pro 14,3,3,4,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00533,2025-12-27,53,Female,Noise Cancelling Headphones,4,3,3,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00534,2025-11-10,55,Male,Wireless Earbuds Pro,2,3,3,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00535,2025-11-28,61,Male,Tablet Air 10,2,3,5,4,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00536,2024-01-06,39,Other,Noise Cancelling Headphones,3,2,2,2,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00537,2024-11-26,21,Female,Home Security Camera,5,4,4,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00538,2025-10-31,27,Male,Noise Cancelling Headphones,3,3,1,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00539,2024-07-23,49,Male,Home Security Camera,3,4,5,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00540,2025-04-19,61,Male,Laptop Pro 14,3,2,2,4,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00541,2024-05-10,61,Female,Bluetooth Speaker Mini,2,2,3,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00542,2024-09-16,40,Male,SmartWatch X2,3,4,3,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00543,2025-12-22,37,Male,Noise Cancelling Headphones,3,2,4,1,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00544,2025-11-20,24,Male,Wireless Earbuds Pro,5,4,4,5,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00545,2025-05-13,37,Female,Tablet Air 10,3,2,4,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00546,2024-01-28,31,Female,Laptop Pro 14,2,2,4,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00547,2024-01-23,25,Male,Laptop Pro 14,3,2,2,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00548,2024-04-15,58,Female,Home Security Camera,4,5,3,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00549,2025-08-28,64,Female,Noise Cancelling Headphones,3,3,2,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00550,2025-10-23,40,Male,Home Security Camera,4,4,5,4,5,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00551,2025-09-08,63,Female,Laptop Pro 14,4,2,4,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00552,2024-07-31,36,Female,SmartWatch X2,3,3,3,1,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00553,2024-08-02,53,Male,Wireless Earbuds Pro,3,4,4,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00554,2025-07-29,32,Female,Tablet Air 10,4,4,3,5,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00555,2024-04-16,63,Male,Noise Cancelling Headphones,3,1,3,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00556,2024-06-20,58,Male,Bluetooth Speaker Mini,4,3,3,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00557,2024-12-08,26,Male,Bluetooth Speaker Mini,2,3,3,2,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00558,2025-01-04,58,Female,Laptop Pro 14,3,2,2,4,2,"Disappointing purchase, would not buy again or recommend.",Other,Dissatisfied
+CUST00559,2025-06-12,61,Male,Wireless Earbuds Pro,2,4,4,4,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00560,2024-02-07,60,Female,Laptop Pro 14,2,4,4,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00561,2025-11-28,62,Female,Gaming Console Z,4,3,5,3,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00562,2025-10-01,57,Female,Tablet Air 10,4,4,3,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00563,2024-05-09,51,Other,Gaming Console Z,4,5,4,4,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00564,2024-11-07,64,Male,SmartWatch X2,2,3,2,2,1,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00565,2025-08-09,65,Male,Tablet Air 10,5,4,5,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00566,2025-08-09,61,Male,Home Security Camera,4,4,5,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00567,2025-02-25,23,Male,Home Security Camera,5,3,3,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00568,2025-03-09,46,Female,Noise Cancelling Headphones,3,2,3,1,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00569,2025-06-25,25,Female,Noise Cancelling Headphones,1,3,4,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00570,2024-06-05,25,Male,Tablet Air 10,5,2,4,5,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00571,2024-08-08,29,Female,Noise Cancelling Headphones,4,2,2,2,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00572,2025-09-12,26,Female,Noise Cancelling Headphones,3,2,3,1,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00573,2025-02-08,39,Female,Noise Cancelling Headphones,3,2,2,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00574,2024-07-16,57,Female,Wireless Earbuds Pro,4,3,4,2,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00575,2024-10-08,31,Male,Noise Cancelling Headphones,4,3,1,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00576,2025-01-26,34,Male,SmartWatch X2,3,2,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00577,2024-11-29,29,Male,Wireless Earbuds Pro,4,4,4,5,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00578,2024-08-30,49,Female,Home Security Camera,4,4,5,5,5,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00579,2024-01-20,35,Female,SmartWatch X2,3,4,2,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00580,2024-06-21,33,Female,Home Security Camera,5,4,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00581,2024-03-02,48,Male,Gaming Console Z,4,3,3,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00582,2025-02-08,62,Male,Laptop Pro 14,2,5,3,3,2,"Disappointing purchase, would not buy again or recommend.",Other,Dissatisfied
+CUST00583,2025-10-12,34,Other,Noise Cancelling Headphones,3,4,3,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00584,2024-01-05,18,Female,Home Security Camera,5,4,3,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00585,2025-11-18,46,Female,Tablet Air 10,5,4,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00586,2024-01-10,32,Female,Gaming Console Z,4,4,4,4,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00587,2025-01-06,20,Male,Bluetooth Speaker Mini,5,3,2,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00588,2025-09-09,54,Male,Laptop Pro 14,4,4,5,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00589,2024-01-24,62,Female,Gaming Console Z,3,2,3,3,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00590,2024-05-04,61,Female,Noise Cancelling Headphones,4,3,1,1,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00591,2024-07-18,39,Male,Wireless Earbuds Pro,4,4,5,3,5,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00592,2025-03-18,19,Female,Tablet Air 10,4,4,5,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00593,2024-03-15,56,Female,SmartWatch X2,2,1,3,3,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00594,2025-03-28,21,Male,Home Security Camera,4,3,3,5,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00595,2025-09-05,60,Female,Noise Cancelling Headphones,2,4,2,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00596,2024-04-15,18,Female,SmartWatch X2,3,3,1,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00597,2024-07-09,33,Male,Wireless Earbuds Pro,4,4,4,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00598,2024-12-17,36,Male,Wireless Earbuds Pro,3,3,3,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00599,2024-07-24,58,Female,SmartWatch X2,2,4,3,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00600,2024-06-15,24,Male,Wireless Earbuds Pro,3,5,3,4,4,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00601,2024-12-05,65,Male,Home Security Camera,5,5,4,4,5,Checkout was smooth and payment options were flexible.,Payment,Satisfied
+CUST00602,2024-02-14,19,Male,Gaming Console Z,5,4,3,4,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00603,2024-04-13,19,Female,Laptop Pro 14,2,4,3,4,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00604,2025-09-30,45,Female,SmartWatch X2,1,3,2,2,2,Support was unresponsive and unhelpful when I reached out.,Customer Service,Dissatisfied
+CUST00605,2025-10-13,33,Female,Bluetooth Speaker Mini,3,2,2,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00606,2024-03-24,48,Female,SmartWatch X2,3,1,4,2,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00607,2025-06-22,62,Female,Noise Cancelling Headphones,2,3,3,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00608,2025-03-11,42,Female,Tablet Air 10,4,5,4,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00609,2024-12-10,45,Male,Home Security Camera,3,5,4,4,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00610,2025-06-09,52,Female,Gaming Console Z,4,4,4,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00611,2025-11-30,35,Male,Laptop Pro 14,4,3,4,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00612,2025-08-16,59,Male,Laptop Pro 14,2,3,4,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00613,2025-04-17,39,Female,Tablet Air 10,4,3,2,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00614,2024-01-10,49,Female,Tablet Air 10,5,2,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00615,2024-02-02,26,Male,Tablet Air 10,3,3,3,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00616,2024-12-02,54,Other,Gaming Console Z,4,4,4,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00617,2025-01-30,36,Male,Gaming Console Z,4,3,5,5,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00618,2025-05-04,65,Male,Bluetooth Speaker Mini,3,3,4,1,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00619,2025-05-29,63,Female,Gaming Console Z,5,5,4,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00620,2024-02-10,65,Male,Noise Cancelling Headphones,2,3,1,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00621,2025-09-24,64,Male,Home Security Camera,5,4,5,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00622,2024-03-09,62,Female,Bluetooth Speaker Mini,4,2,3,3,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00623,2025-02-23,46,Male,Bluetooth Speaker Mini,2,3,3,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00624,2024-04-27,63,Female,Tablet Air 10,3,3,4,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00625,2024-10-12,28,Male,Wireless Earbuds Pro,3,3,5,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00626,2024-02-05,61,Female,Noise Cancelling Headphones,4,3,2,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00627,2024-02-23,56,Male,Home Security Camera,4,2,5,5,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00628,2024-08-13,24,Female,Laptop Pro 14,4,4,4,2,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00629,2025-02-08,45,Male,Bluetooth Speaker Mini,4,3,4,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00630,2024-02-14,22,Female,Home Security Camera,4,2,2,5,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00631,2024-04-07,56,Male,Home Security Camera,3,2,3,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00632,2025-09-15,55,Male,Bluetooth Speaker Mini,2,3,2,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00633,2024-09-06,57,Male,Laptop Pro 14,3,3,5,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00634,2024-10-11,38,Female,Wireless Earbuds Pro,3,5,3,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00635,2025-07-06,21,Female,Bluetooth Speaker Mini,3,1,3,3,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00636,2024-02-23,58,Other,Bluetooth Speaker Mini,3,3,4,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00637,2024-06-17,64,Male,Home Security Camera,4,4,4,4,5,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00638,2024-06-20,48,Male,Home Security Camera,5,5,2,5,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00639,2025-09-01,52,Male,Laptop Pro 14,3,4,3,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00640,2024-01-14,50,Female,Tablet Air 10,4,5,3,2,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00641,2025-02-22,20,Other,SmartWatch X2,2,3,3,4,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00642,2025-12-14,21,Female,Home Security Camera,4,4,5,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00643,2024-09-24,56,Male,Laptop Pro 14,3,4,5,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00644,2024-03-23,51,Female,Home Security Camera,4,3,5,5,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00645,2024-04-01,24,Female,Tablet Air 10,4,3,4,3,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00646,2025-03-03,51,Male,Gaming Console Z,4,4,5,4,5,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00647,2024-08-05,29,Male,Laptop Pro 14,3,3,2,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00648,2024-05-07,35,Male,Wireless Earbuds Pro,4,2,4,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00649,2024-02-12,24,Male,Wireless Earbuds Pro,3,5,2,4,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00650,2024-11-18,33,Other,Home Security Camera,5,5,4,2,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00651,2024-05-22,19,Female,Gaming Console Z,5,3,3,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00652,2024-11-25,19,Female,Wireless Earbuds Pro,4,4,2,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00653,2025-05-02,60,Female,SmartWatch X2,3,2,1,2,2,Had payment failures multiple times before it finally went through.,Payment,Dissatisfied
+CUST00654,2024-11-04,61,Other,Noise Cancelling Headphones,3,2,3,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00655,2024-04-01,24,Male,Wireless Earbuds Pro,5,5,4,4,5,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00656,2025-07-01,58,Female,SmartWatch X2,2,2,3,3,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00657,2025-01-25,59,Female,Home Security Camera,4,3,5,5,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00658,2024-11-16,42,Female,Wireless Earbuds Pro,3,3,3,3,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00659,2024-05-09,51,Female,Bluetooth Speaker Mini,3,3,3,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00660,2025-11-12,62,Male,Tablet Air 10,3,4,4,2,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00661,2025-12-22,42,Male,Tablet Air 10,5,5,4,5,5,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00662,2024-11-02,60,Female,Laptop Pro 14,2,2,3,3,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00663,2024-10-16,36,Female,Bluetooth Speaker Mini,3,2,3,1,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00664,2025-08-14,26,Male,Noise Cancelling Headphones,2,3,3,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00665,2025-11-25,27,Male,Home Security Camera,4,3,2,4,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00666,2024-06-01,58,Female,Bluetooth Speaker Mini,3,3,4,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00667,2025-11-17,60,Male,Noise Cancelling Headphones,4,2,3,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00668,2024-01-24,55,Female,Noise Cancelling Headphones,3,2,1,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00669,2024-04-11,38,Male,Laptop Pro 14,2,4,4,1,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00670,2025-10-29,25,Female,Bluetooth Speaker Mini,2,3,3,1,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00671,2024-05-11,54,Male,Laptop Pro 14,4,3,3,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00672,2024-09-11,37,Male,Gaming Console Z,5,3,4,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00673,2024-08-02,62,Male,Wireless Earbuds Pro,4,4,5,3,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00674,2024-03-17,53,Male,Home Security Camera,5,5,5,4,5,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00675,2025-10-06,64,Male,Bluetooth Speaker Mini,3,2,4,4,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00676,2024-09-10,22,Male,SmartWatch X2,2,2,3,3,2,Had payment failures multiple times before it finally went through.,Payment,Dissatisfied
+CUST00677,2024-10-07,18,Male,Bluetooth Speaker Mini,3,3,3,2,2,Way too expensive for what you actually get in the box.,Pricing,Dissatisfied
+CUST00678,2024-10-15,53,Male,SmartWatch X2,3,4,4,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00679,2025-08-31,43,Female,Laptop Pro 14,3,4,4,3,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00680,2024-09-12,61,Female,Noise Cancelling Headphones,2,4,3,1,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00681,2024-08-22,37,Female,SmartWatch X2,3,2,3,3,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00682,2025-07-21,49,Female,Wireless Earbuds Pro,4,3,4,1,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00683,2025-12-15,25,Male,Bluetooth Speaker Mini,4,2,3,2,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00684,2025-06-24,61,Female,Noise Cancelling Headphones,2,2,1,3,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00685,2024-02-22,45,Female,Laptop Pro 14,3,3,2,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00686,2025-10-08,54,Male,Gaming Console Z,5,5,4,5,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00687,2024-01-07,57,Male,Gaming Console Z,4,4,3,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00688,2024-05-06,49,Male,Gaming Console Z,4,3,4,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00689,2025-03-25,28,Male,Home Security Camera,5,4,4,4,4,Great value for the features you get at this price point.,Pricing,Satisfied
+CUST00690,2025-05-05,60,Other,SmartWatch X2,3,1,2,2,1,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00691,2025-02-02,26,Male,SmartWatch X2,3,2,2,2,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00692,2025-05-06,36,Male,SmartWatch X2,3,3,3,2,2,"Disappointing purchase, would not buy again or recommend.",Other,Dissatisfied
+CUST00693,2024-09-10,60,Female,Bluetooth Speaker Mini,2,3,3,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00694,2025-02-14,20,Male,Bluetooth Speaker Mini,3,2,3,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00695,2024-08-24,32,Male,Noise Cancelling Headphones,4,3,1,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00696,2024-01-01,21,Female,Tablet Air 10,5,2,4,4,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00697,2024-04-09,60,Male,Laptop Pro 14,2,4,3,3,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00698,2024-05-13,58,Female,SmartWatch X2,3,4,3,2,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00699,2025-09-25,39,Male,Noise Cancelling Headphones,3,3,3,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00700,2024-12-21,41,Male,SmartWatch X2,2,3,3,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00701,2024-05-12,36,Male,Wireless Earbuds Pro,4,3,3,2,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00702,2025-02-03,43,Female,Bluetooth Speaker Mini,4,3,4,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00703,2025-06-21,34,Male,Bluetooth Speaker Mini,3,3,2,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00704,2024-02-22,59,Other,Bluetooth Speaker Mini,3,4,3,4,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00705,2024-05-16,44,Female,Gaming Console Z,4,4,5,5,5,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00706,2025-08-20,24,Female,Home Security Camera,4,4,5,3,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00707,2025-10-06,43,Male,Bluetooth Speaker Mini,3,2,2,3,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00708,2024-07-03,59,Male,Gaming Console Z,5,4,5,4,5,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00709,2025-02-16,24,Female,Laptop Pro 14,3,2,4,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00710,2024-03-26,35,Male,Wireless Earbuds Pro,4,5,4,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00711,2025-07-30,46,Female,Gaming Console Z,4,4,4,3,4,Arrived earlier than expected and packaging was solid.,Delivery,Satisfied
+CUST00712,2025-03-01,27,Male,Bluetooth Speaker Mini,3,2,3,3,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00713,2024-04-25,49,Male,SmartWatch X2,3,4,2,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00714,2025-03-14,51,Male,Laptop Pro 14,3,4,4,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00715,2025-11-08,41,Female,SmartWatch X2,3,1,3,3,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00716,2024-04-25,54,Male,Gaming Console Z,2,3,5,2,3,"An average experience overall, met basic expectations.",Other,Neutral
+CUST00717,2025-09-08,58,Male,Bluetooth Speaker Mini,2,4,2,2,2,Had payment failures multiple times before it finally went through.,Payment,Dissatisfied
+CUST00718,2024-08-12,62,Male,Tablet Air 10,3,3,4,4,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00719,2024-05-22,36,Male,Home Security Camera,4,5,5,3,5,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00720,2025-12-19,24,Female,SmartWatch X2,3,2,2,2,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00721,2025-03-02,27,Female,Noise Cancelling Headphones,3,1,2,3,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00722,2025-10-19,20,Female,Laptop Pro 14,2,4,3,2,2,Missing several features that were promised in the listing.,Product Features,Dissatisfied
+CUST00723,2025-05-28,37,Female,Home Security Camera,5,3,5,3,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00724,2025-07-26,56,Female,Noise Cancelling Headphones,3,2,2,1,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
+CUST00725,2024-04-16,22,Male,Tablet Air 10,4,4,2,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00726,2024-10-02,23,Other,Wireless Earbuds Pro,3,4,3,4,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00727,2025-02-11,50,Male,Home Security Camera,4,2,3,4,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00728,2025-01-26,48,Female,Wireless Earbuds Pro,3,4,5,3,3,"Payment process worked fine, a bit of a long form though.",Payment,Neutral
+CUST00729,2025-10-31,27,Female,Laptop Pro 14,4,3,2,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00730,2025-03-17,20,Female,Home Security Camera,5,5,5,4,5,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00731,2024-11-12,53,Female,SmartWatch X2,2,2,3,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00732,2025-04-29,34,Female,Noise Cancelling Headphones,3,3,3,3,3,"Features are standard, matches most competitor products.",Product Features,Neutral
+CUST00733,2025-11-27,26,Male,Tablet Air 10,3,4,4,3,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00734,2025-07-28,18,Male,SmartWatch X2,2,3,3,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00735,2025-10-19,52,Female,Noise Cancelling Headphones,3,3,3,3,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00736,2024-08-05,62,Female,SmartWatch X2,3,3,3,2,3,"Price feels fair, similar to other options on the market.",Pricing,Neutral
+CUST00737,2025-01-24,21,Female,Tablet Air 10,4,1,5,4,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00738,2024-10-07,43,Male,Noise Cancelling Headphones,3,2,2,4,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00739,2024-10-31,28,Male,Home Security Camera,3,4,3,5,4,"Loved the extra features, works exactly as advertised.",Product Features,Satisfied
+CUST00740,2024-07-22,22,Female,Laptop Pro 14,2,5,3,3,3,"Delivery was on time, no complaints but nothing special.",Delivery,Neutral
+CUST00741,2024-05-31,49,Female,SmartWatch X2,3,1,5,2,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00742,2024-02-07,31,Female,Bluetooth Speaker Mini,2,2,3,5,2,Package arrived late and box was damaged during shipping.,Delivery,Dissatisfied
+CUST00743,2024-01-15,41,Female,Wireless Earbuds Pro,4,4,1,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00744,2024-12-09,25,Female,Noise Cancelling Headphones,4,3,4,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00745,2024-10-17,62,Female,SmartWatch X2,4,2,2,2,3,Quality is decent but nothing exceptional for the price.,Product Quality,Neutral
+CUST00746,2025-03-30,50,Female,Wireless Earbuds Pro,2,4,4,5,4,"Overall a pleasant experience, would recommend to others.",Other,Satisfied
+CUST00747,2024-12-25,47,Male,Home Security Camera,5,4,4,4,4,"Build quality is excellent, feels premium and durable.",Product Quality,Satisfied
+CUST00748,2025-02-28,20,Male,Laptop Pro 14,2,4,3,3,3,"Support was okay, took a while to get a response.",Customer Service,Neutral
+CUST00749,2025-07-23,43,Male,Home Security Camera,5,3,2,2,4,Support team was quick and very helpful with my issue.,Customer Service,Satisfied
+CUST00750,2024-04-11,63,Female,SmartWatch X2,2,3,1,1,2,Product feels cheaply made and started malfunctioning quickly.,Product Quality,Dissatisfied
